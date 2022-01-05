@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Abhiratn
-- 👀 I’m interested in Web designing and Graphics designing
-- 🌱 I’m currently learning Html, Css, JavaScript, Python, C++
-- 💞️ I’m looking to collaborate on any project Web site design, Graphic design or programming.
+- :sassy_man: I am a Front End Designer/Developer, Freelancer
+- 👀 I’m interested in Web designing and UX\UI designing.
+- 🌱 I’m currently learning Html, Css, JavaScript.
+- 💞️ I’m looking to collaborate on any project Web site design, UX\UI designing.
 - 📫 How to reach me?
 - 🧤 You can reach me by mailing at my email: abhiratn02@gmail.com 
 
